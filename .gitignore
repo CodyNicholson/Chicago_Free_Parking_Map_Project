@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+.env.local
+__pycache__/
+*.pyc
+.pytest_cache/
+*.pmtiles
+package-lock.json
